@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jila Niknejad
-- 👀 I’m interested in many areas.
+- 👀 
 - 🌱 I’m currently creating large volume of exams.
 - 💞️ I’m looking to collaborate on how LMS creates exams from pools
 - 📫 How to reach me: jila at ku.edu
